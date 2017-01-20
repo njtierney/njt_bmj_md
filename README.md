@@ -4,9 +4,14 @@ Authors: Nicholas Tierney, Fiona Harden, Maurice Harden, Kerrie Mengersen
 
 This GitHub repo currently hosts my paper .Rmd file. The data used to create the paper is unable to shared due for ethical and industry reasons, as it contained personal information.
 
+In the future I might post some more of the content to make it easier to reproduce. I might also try and create some fake data to ease the reproducibility.
+
 You can read the paper in full [here at BMJ Open](http://bmjopen.bmj.com/content/5/6/e007450.full)
 
 The Paper here might differ slightly as some final changes made were not entered into the .Rmd.
+
+If you are interested in missing data exploration and analysis, make sure you check out my other R packages, [visdat](https://github.com/njtierney/visdat) and [naniar](https://github.com/njtierney/naniar).
+
 
 ## Abstract
 
